@@ -1,0 +1,209 @@
+(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0") (uuid "b13d9124-9c05-4bdd-a497-47a7ab0a7721") (paper "A4") (lib_symbols 
+
+(symbol "power:+1V1" (power) (pin_numbers hide) (pin_names (offset 0) hide) (exclude_from_sim no) (in_bom yes) (on_board yes) 
+
+(property "Reference" "#PWR" (at 0 -3.81 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Value" "+1V1" (at 0 3.556 0) (effects (font (size 1.27 1.27)))) 
+
+(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Description" "Power symbol creates a global label with name \"+1V1\"" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "ki_keywords" "global power" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(symbol "+1V1_0_1" 
+
+(polyline (pts 
+
+(xy -0.762 1.27) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 0) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 2.54) 
+
+(xy 0.762 1.27)) (stroke (width 0) (type default)) (fill (type none)))) 
+
+(symbol "+1V1_1_1" (pin power_in line (at 0 0 90) (length 0) (name "~" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27))))))) 
+
+(symbol "power:+1V2" (power) (pin_numbers hide) (pin_names (offset 0) hide) (exclude_from_sim no) (in_bom yes) (on_board yes) 
+
+(property "Reference" "#PWR" (at 0 -3.81 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Value" "+1V2" (at 0 3.556 0) (effects (font (size 1.27 1.27)))) 
+
+(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Description" "Power symbol creates a global label with name \"+1V2\"" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "ki_keywords" "global power" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(symbol "+1V2_0_1" 
+
+(polyline (pts 
+
+(xy -0.762 1.27) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 0) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 2.54) 
+
+(xy 0.762 1.27)) (stroke (width 0) (type default)) (fill (type none)))) 
+
+(symbol "+1V2_1_1" (pin power_in line (at 0 0 90) (length 0) (name "~" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27))))))) 
+
+(symbol "power:+2V5" (power) (pin_numbers hide) (pin_names (offset 0) hide) (exclude_from_sim no) (in_bom yes) (on_board yes) 
+
+(property "Reference" "#PWR" (at 0 -3.81 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Value" "+2V5" (at 0 3.556 0) (effects (font (size 1.27 1.27)))) 
+
+(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Description" "Power symbol creates a global label with name \"+2V5\"" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "ki_keywords" "global power" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(symbol "+2V5_0_1" 
+
+(polyline (pts 
+
+(xy -0.762 1.27) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 0) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 2.54) 
+
+(xy 0.762 1.27)) (stroke (width 0) (type default)) (fill (type none)))) 
+
+(symbol "+2V5_1_1" (pin power_in line (at 0 0 90) (length 0) (name "~" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27))))))) 
+
+(symbol "power:+2V8" (power) (pin_numbers hide) (pin_names (offset 0) hide) (exclude_from_sim no) (in_bom yes) (on_board yes) 
+
+(property "Reference" "#PWR" (at 0 -3.81 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Value" "+2V8" (at 0 3.556 0) (effects (font (size 1.27 1.27)))) 
+
+(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Description" "Power symbol creates a global label with name \"+2V8\"" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "ki_keywords" "global power" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(symbol "+2V8_0_1" 
+
+(polyline (pts 
+
+(xy -0.762 1.27) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 0) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 2.54) 
+
+(xy 0.762 1.27)) (stroke (width 0) (type default)) (fill (type none)))) 
+
+(symbol "+2V8_1_1" (pin power_in line (at 0 0 90) (length 0) (name "~" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27))))))) 
+
+(symbol "power:+5V" (power) (pin_numbers hide) (pin_names (offset 0) hide) (exclude_from_sim no) (in_bom yes) (on_board yes) 
+
+(property "Reference" "#PWR" (at 0 -3.81 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Value" "+5V" (at 0 3.556 0) (effects (font (size 1.27 1.27)))) 
+
+(property "Footprint" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Datasheet" "" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Description" "Power symbol creates a global label with name \"+5V\"" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "ki_keywords" "global power" (at 0 0 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(symbol "+5V_0_1" 
+
+(polyline (pts 
+
+(xy -0.762 1.27) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 0) 
+
+(xy 0 2.54)) (stroke (width 0) (type default)) (fill (type none))) 
+
+(polyline (pts 
+
+(xy 0 2.54) 
+
+(xy 0.762 1.27)) (stroke (width 0) (type default)) (fill (type none)))) 
+
+(symbol "+5V_1_1" (pin power_in line (at 0 0 90) (length 0) (name "~" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))))) 
+
+(symbol (lib_id "power:+1V1") (at 83.82 37.3408 0) (unit 1) (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced yes) (uuid "2dc28347-b8c6-40a0-87e9-2d05c0f699a9") 
+
+(property "Reference" "#PWR?" (at 83.82 41.1508 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Value" "+1V1" (at 83.82 32.2608 0) (effects (font (size 1.27 1.27)))) 
+
+(property "Footprint" "" (at 83.82 37.3408 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Datasheet" "" (at 83.82 37.3408 0) (effects (font (size 1.27 1.27)) (hide yes))) 
+
+(property "Description" "Power symbol creates a global label with name \"+1V1\"" (at 83.82 37.3408 0) (effects (font (size 1.27 1.27)) (hide yes))) (pin "1" (uuid "861c57a2-cfb3-415f-8f12-250e18ff7ebb")) (instances (project "onp" (path "/b13d9124-9c05-4bdd-a497-47a7ab0a7721/09e8b5de-13c5-4ad8-a1e5-dd88ae05566c" (reference "#PWR?") (unit 1))))) (sheet (at 81.28 80.01) (size 55.88 7.62) (fields_autoplaced yes) (stroke (width 0.1524) (type solid)) (fill (color 0 0 0 0.0)) (uuid "09e8b5de-13c5-4ad8-a1e5-dd88ae05566c") 
+
+(property "Sheetname" "saxas" (at 81.28 79.2984 0) (effects (font (size 1.27 1.27)) (justify left bottom))) 
+
+(property "Sheetfile" "xsx.kicad_sch" (at 81.28 88.2146 0) (effects (font (size 1.27 1.27)) (justify left top))) (instances (project "onp" (path "/b13d9124-9c05-4bdd-a497-47a7ab0a7721" (page "2"))))) 
+
+(global_label "VCC_+1V1" (shape input) (at 120.65 32.2608 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify right)) (uuid 0bf8f11c-e595-436e-9a79-5c4627539f94) 
+
+(property "Intersheetrefs" "${INTERSHEET_REFS}" (at 21.6891 33.02 0) (effects (font (size 1.27 1.27)) (justify right) hide))) 
+
+(global_label "VCC_+1V1" (shape input) (at 83.82 37.3408 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify right)) (uuid f6911db7-4ab1-4f08-82ab-51fa6cdd7be3) 
+
+(property "Intersheetrefs" "${INTERSHEET_REFS}" (at 21.6891 33.02 0) (effects (font (size 1.27 1.27)) (justify right) hide))) 
+
+(global_label "VCC_+1V1" (shape input) (at 118.11 55.1208 0) (fields_autoplaced) (effects (font (size 1.27 1.27)) (justify right)) (uuid 76f37892-41ab-443c-bee4-2804bc10fc91) 
+
+(property "Intersheetrefs" "${INTERSHEET_REFS}" (at 21.6891 33.02 0) (effects (font (size 1.27 1.27)) (justify right) hide))))
